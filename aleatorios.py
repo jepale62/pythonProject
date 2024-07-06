@@ -17,3 +17,7 @@ L = [2,4,6,9,11,15,48,75,23]
 # n = random.sample(L,3)
 # print(f'Números escolhidos: {n}')
 
+print(f'Exibir a lista original: {L}')
+print(f"Embaralhar a lista e exibi-la: ")
+n = random.shuffle(L)
+print(L)
