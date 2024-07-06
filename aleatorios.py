@@ -14,5 +14,6 @@ import random
 L = [2,4,6,9,11,15,48,75,23]
 #n = random.choice(L)
 #print(f'Número escolhido: {n}')
-n = random.sample(L,3)
-print(f'Números escolhidos: {n}')
+# n = random.sample(L,3)
+# print(f'Números escolhidos: {n}')
+
