@@ -7,3 +7,11 @@ while True:
         break
     print(f'Bem-vindo, {nome}')
 print('Até logo.')
+
+
+num = 1
+
+while (num <= 10):
+    print(num)
+    num += 1
+print("Laço encerrado")
